@@ -17,3 +17,4 @@
 - Input: năm (int)
 - Output: số tiền học phí (int)
 - Cách lấy dữ liệu: tra học phí qua các năm của trường qua trang trường
+- Cách xử lý dữ liệu: tìm công thức hồi quy tuyến tính qua số liệu các năm
